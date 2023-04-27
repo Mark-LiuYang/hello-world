@@ -6,6 +6,4 @@ Good morning!
 
 try to contribute to an existing repo~
 
-this is a my-branch
-
-try to push this to main 
+hahaha~
